@@ -3,7 +3,7 @@ variable "name" {
 }
 
 variable "project" {
-  default = "optimum-spring-238818"
+  default = "arched-jetty-303107"
 }
 
 variable "location" {
